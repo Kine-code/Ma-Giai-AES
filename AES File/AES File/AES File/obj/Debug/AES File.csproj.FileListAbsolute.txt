@@ -1,0 +1,21 @@
+C:\Users\nguyenthao\Desktop\AES File\AES File\bin\Debug\AES File.exe.config
+C:\Users\nguyenthao\Desktop\AES File\AES File\bin\Debug\AES File.exe
+C:\Users\nguyenthao\Desktop\AES File\AES File\bin\Debug\AES File.pdb
+C:\Users\nguyenthao\Desktop\AES File\AES File\obj\Debug\AES File.csprojAssemblyReference.cache
+C:\Users\nguyenthao\Desktop\AES File\AES File\obj\Debug\AES_File.Form1.resources
+C:\Users\nguyenthao\Desktop\AES File\AES File\obj\Debug\AES_File.Properties.Resources.resources
+C:\Users\nguyenthao\Desktop\AES File\AES File\obj\Debug\AES File.csproj.GenerateResource.cache
+C:\Users\nguyenthao\Desktop\AES File\AES File\obj\Debug\AES File.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthao\Desktop\AES File\AES File\obj\Debug\AES File.exe
+C:\Users\nguyenthao\Desktop\AES File\AES File\obj\Debug\AES File.pdb
+D:\ATBM\AES File\AES File\AES File\bin\Debug\AES File.exe.config
+D:\ATBM\AES File\AES File\AES File\bin\Debug\AES File.exe
+D:\ATBM\AES File\AES File\AES File\bin\Debug\AES File.pdb
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES File.csproj.AssemblyReference.cache
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES File.csproj.SuggestedBindingRedirects.cache
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES_File.Form1.resources
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES_File.Properties.Resources.resources
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES File.csproj.GenerateResource.cache
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES File.csproj.CoreCompileInputs.cache
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES File.exe
+D:\ATBM\AES File\AES File\AES File\obj\Debug\AES File.pdb

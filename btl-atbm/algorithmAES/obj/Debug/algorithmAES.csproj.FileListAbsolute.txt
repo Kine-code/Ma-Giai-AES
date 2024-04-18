@@ -1,0 +1,55 @@
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe.config
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\bin\Debug\algorithmAES.pdb
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csprojAssemblyReference.cache
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Form1.resources
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Properties.Resources.resources
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csproj.GenerateResource.cache
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.exe
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.pdb
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\bin\Debug\Rijndael256.dll
+C:\Users\NGUYENTHAO\Desktop\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csproj.CopyComplete
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe.config
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\obj\Debug\algorithmAES.exe
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\obj\Debug\algorithmAES.pdb
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\bin\Debug\algorithmAES.pdb
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\bin\Debug\Rijndael256.dll
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Form1.resources
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Properties.Resources.resources
+C:\Users\Asus\Downloads\algorithmAES\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csproj.GenerateResource.Cache
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe.config
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.exe
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.pdb
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\algorithmAES.pdb
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\Rijndael256.dll
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csprojResolveAssemblyReference.cache
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Form1.resources
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Properties.Resources.resources
+D:\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csproj.GenerateResource.Cache
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe.config
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.exe
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.pdb
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\algorithmAES.exe
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\algorithmAES.pdb
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\bin\Debug\Rijndael256.dll
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csprojResolveAssemblyReference.cache
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Form1.resources
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.Properties.Resources.resources
+D:\Dữ liệu\AES_BTL_Tung_85410\algorithmAES\algorithmAES\obj\Debug\algorithmAES.csproj.GenerateResource.Cache
+D:\ATBM\btl-atbm\algorithmAES\bin\Debug\algorithmAES.exe.config
+D:\ATBM\btl-atbm\algorithmAES\bin\Debug\algorithmAES.exe
+D:\ATBM\btl-atbm\algorithmAES\bin\Debug\algorithmAES.pdb
+D:\ATBM\btl-atbm\algorithmAES\bin\Debug\Rijndael256.dll
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.csproj.AssemblyReference.cache
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.csproj.SuggestedBindingRedirects.cache
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.Form1.resources
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.Properties.Resources.resources
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.csproj.GenerateResource.cache
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.csproj.CoreCompileInputs.cache
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.csproj.CopyComplete
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.exe
+D:\ATBM\btl-atbm\algorithmAES\obj\Debug\algorithmAES.pdb
